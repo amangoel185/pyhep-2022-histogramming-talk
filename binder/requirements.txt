@@ -6,7 +6,7 @@ histoprint==2.4.0
 jupyterlab==3.4.6
 matplotlib==3.5.3
 mplhep==0.3.26
-numpy==1.22.0
+numpy==1.21.6
 plotext==5.2.2
 textual==0.1.18
 uhi==0.3.1
