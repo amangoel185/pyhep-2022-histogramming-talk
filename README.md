@@ -1,12 +1,6 @@
-# PyHEP2022-histogramming
+# Histograms as Objects: Tools for Efficient Analysis and Interactivity
 
-PyHEP 2022 talk - [Histograms as Objects: Tools for Efficient Analysis and Interactivity](https://indico.cern.ch/event/1150631/contributions/5014273/)
-
-## Rough Outline
-
-- boost histogram
-- hist
-- uproot-browser
+PyHEP 2022 talk - [Indico](https://indico.cern.ch/event/1150631/contributions/5014273/)
 
 ## References
 
