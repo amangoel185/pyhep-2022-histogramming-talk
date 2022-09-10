@@ -1,5 +1,6 @@
 # Histograms as Objects: Tools for Efficient Analysis and Interactivity
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amangoel185/pyhep-2022-histogramming-talk/HEAD)
 PyHEP 2022 talk - [Indico](https://indico.cern.ch/event/1150631/contributions/5014273/)
 
 ## Abstract
