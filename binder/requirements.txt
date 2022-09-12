@@ -8,6 +8,7 @@ matplotlib==3.5.3
 mplhep==0.3.26
 numpy>=1.21.6
 plotext==5.2.2
+scikit-hep-testdata==0.4.20
 textual==0.1.18
 uhi==0.3.1
 uproot==4.3.5
