@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amangoel185/pyhep-2022-histogramming-talk/HEAD)
 [![DOI](https://zenodo.org/badge/534640103.svg)](https://zenodo.org/badge/latestdoi/534640103)
 
-PyHEP 2022 talk - [Indico](https://indico.cern.ch/event/1150631/contributions/5014273/)
+This is the repository for the talk [Histograms as Objects: Tools for Efficient Analysis and Interactivity](https://indico.cern.ch/event/1150631/contributions/5014273/) presented at the [PyHEP 2022 Workshop](https://indico.cern.ch/event/1150631/) on September 12, 2022.
 
 ## Abstract
 
@@ -11,12 +11,12 @@ Histograms are a pillar of analysis in High Energy Physics. Particle physicists 
 
 ## Speakers
 
-- Aman Goel
+- [Aman Goel](https://github.com/amangoel185)
 - Jay Gohil
 
 ## Authors
 
-- Aman Goel
+- [Aman Goel](https://github.com/amangoel185)
 - Dr Hans Peter Dembinski
-- Henry Fredrick Schreiner
+- [Henry Schreiner](http://iscinumpy.gitlab.io)
 - Jay Gohil
